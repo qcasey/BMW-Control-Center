@@ -1,0 +1,12 @@
+[submodule "mdroid"]
+	path = mdroid
+	url = https://github.com/mdroid-core/mdroid
+[submodule "performance"]
+	path = performance
+	url = https://github.com/mdroid-core/performance
+[submodule "media"]
+	path = media
+	url = https://github.com/mdroid-core/media
+[submodule "control"]
+	path = control
+	url = https://github.com/mdroid-core/control
