@@ -3,20 +3,11 @@
 An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ car...
 
 <p>
-<img width="300" style="width: 33.3%; float: left" src="./control-1.jpg" />
-<img width="300" style="width: 33.3%; float: left" src="./control-2.jpg" />
-<img width="300" style="width: 33.3%; float: left" src="./control-3.jpg" />
-</p>
-
-<p>
-<img width="900" style="width: 100%; float: left" src="./fitmet.jpeg" />
-</p>
-<p>
 <img width="450" style="width: 50%; float: left" src="./board-2.jpeg" />
 <img width="450" style="width: 50%; float: left" src="./boards.jpeg" />
 </p>
 
-[![Galaxy Watch Integration](https://i.vimeocdn.com/video/810783598_1280x720.jpg)](https://vimeo.com/357433079 "Galaxy Watch Integration")
+![./fitmet.jpeg](./fitmet.jpeg)
 
 I am modernizing my 2005 vehicle by adding oodles of connectivity and custom electronics. So far, I've successfully implemented:
 
@@ -58,6 +49,16 @@ My design goal is to steal all the ideas modern automakers have fleshed out the 
   - Excellent OLED panel, looks stunning at night
   - Custom 3D printed bezel for mounting in dash
 - [30Ah deep cycle battery](https://www.amazon.com/Mighty-Max-Battery-ML35-12-Replaces/dp/B00K8E0WAG/ref=sxin_16)
+
+# Control App
+
+<p>
+<img width="300" style="width: 33.3%; float: left" src="./control-1.jpg" />
+<img width="300" style="width: 33.3%; float: left" src="./control-2.jpg" />
+<img width="300" style="width: 33.3%; float: left" src="./control-3.jpg" />
+</p>
+
+[![Galaxy Watch Integration](https://i.vimeocdn.com/video/810783598_1280x720.jpg)](https://vimeo.com/357433079 "Galaxy Watch Integration")
 
 # Infrequently Asked Qs
 
