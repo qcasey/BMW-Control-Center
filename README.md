@@ -2,18 +2,18 @@
 
 An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ car...
 
-<p>
-<img style="width: 33%; float: left" src="./control-1.jpg" />
-<img style="width: 33%; float: left" src="./control-2.jpg" />
-<img style="width: 33%; float: left" src="./control-3.jpg" />
+<p style="float: left">
+<img width="300" style="width: 33%; float: left" src="./control-1.jpg" />
+<img width="300" style="width: 33%; float: left" src="./control-2.jpg" />
+<img width="300" style="width: 33%; float: left" src="./control-3.jpg" />
 </p>
 
 <p>
-<img style="width: 100%; float: left" src="./fitmet.jpeg" />
+<img width="900" style="width: 100%; float: left" src="./fitmet.jpeg" />
 </p>
 <p>
-<img style="width: 50%; float: left" src="./board-2.jpeg" />
-<img style="width: 50%; float: left" src="./boards.jpeg" />
+<img width="450" style="width: 50%; float: left" src="./board-2.jpeg" />
+<img width="450" style="width: 50%; float: left" src="./boards.jpeg" />
 </p>
 
 I am modernizing my 2005 vehicle by adding oodles of connectivity and custom electronics. So far, I've successfully implemented:
