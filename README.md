@@ -2,7 +2,7 @@
 
 An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ car...
 
-<p style="float: left">
+<p>
 <img width="300" style="width: 33%; float: left" src="./control-1.jpg" />
 <img width="300" style="width: 33%; float: left" src="./control-2.jpg" />
 <img width="300" style="width: 33%; float: left" src="./control-3.jpg" />
