@@ -16,6 +16,8 @@ An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ 
 <img width="450" style="width: 50%; float: left" src="./boards.jpeg" />
 </p>
 
+[![Galaxy Watch Integration](https://i.vimeocdn.com/video/810783598_1280x720.jpg)](https://vimeo.com/357433079 "Galaxy Watch Integration")
+
 I am modernizing my 2005 vehicle by adding oodles of connectivity and custom electronics. So far, I've successfully implemented:
 
 - Bluetooth Audio with hotspot tethering
