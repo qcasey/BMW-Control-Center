@@ -8,6 +8,7 @@ An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ 
 </p>
 
 ![./fitmet.jpeg](./fitmet.jpeg)
+![./sensors.png](./sensors.png)
 
 I am modernizing my 2005 vehicle by adding oodles of connectivity and custom electronics. So far, I've successfully implemented:
 
@@ -58,7 +59,7 @@ My design goal is to steal all the ideas modern automakers have fleshed out the 
 <img width="300" style="width: 33.3%; float: left" src="./control-3.jpg" />
 </p>
 
-[![Galaxy Watch Integration](https://i.vimeocdn.com/video/810783598_1280x720.jpg)](https://vimeo.com/357433079 "Galaxy Watch Integration")
+![./media.png](./media.png)
 
 # Infrequently Asked Qs
 
