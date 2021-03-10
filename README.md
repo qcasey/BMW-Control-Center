@@ -10,6 +10,11 @@ An embedded computer, an Arduino PCB, and an Android tablet walk into a ~~bar~~ 
 ![./fitmet.jpeg](./fitmet.jpeg)
 ![./sensors.png](./sensors.png)
 
+<p>
+<img width="450" style="width: 50%; float: left" src="./custom-board.jpg" />
+<img width="450" style="width: 50%; float: left" src="./main.jpg" />
+</p>
+
 I am modernizing my 2005 vehicle by adding oodles of connectivity and custom electronics. So far, I've successfully implemented:
 
 - Bluetooth Audio with hotspot tethering
