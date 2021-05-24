@@ -61,7 +61,7 @@ My design goal is to steal all the ideas modern automakers have fleshed out the 
 <img width="300" style="width: 33.3%; float: left" src="https://github.com/qcasey/BMW-Control-Center/raw/main/control-3.jpg" />
 </p>
 
-![./media.png](./media.png)
+![./media.png](https://github.com/qcasey/BMW-Control-Center/raw/main/media.png)
 
 # Infrequently Asked Qs
 
